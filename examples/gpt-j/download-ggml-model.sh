@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # This script downloads GPT-J model files that have already been converted to ggml format.
 # This way you don't have to convert them yourself.
